@@ -16,9 +16,6 @@ Qual é sua pergunta?
 │      ↓
 │   Análise Bibliométrica
 │
-├── Quero identificar e organizar os estudos existentes
-│      ↓
-│   Revisão Sistemática da Literatura
 │
 ├── Quero interpretar o conhecimento produzido
 │      ↓

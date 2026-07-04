@@ -103,10 +103,6 @@ Qual é sua pergunta?
 │      ↓
 │   Análise Bibliométrica
 │
-├── Quero identificar e organizar estudos
-│      ↓
-│   Revisão Sistemática
-│
 ├── Quero interpretar os resultados encontrados
 │      ↓
 │   Síntese Narrativa
